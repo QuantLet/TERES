@@ -1,0 +1,14 @@
+Name of QuantLet : TERES_Standardization
+
+Published in : Tail Event Risk Expected Shortfall
+
+Description : 'Uses a GARCH(1,1) model and a constant mean to standardze the data input.'
+
+Keywords : dynamic, garch, heavy-tailed, heteroskedasticity, nonstationary, preprocessing, returns, standardization, variance
+
+See also : 'MSEconfexpectile0.95, SFSconfexpectile0.95, SFSconfexpectile0.95, 
+TERES_ExpectileQuantileDiffMulti'
+
+Author : Philipp Gschöpf, Andrija Mihoci
+
+Submitted : Tue, March 10 2015 by Lukas Borke
