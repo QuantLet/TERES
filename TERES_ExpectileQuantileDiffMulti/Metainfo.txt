@@ -1,4 +1,5 @@
-Name of QuantLet : TERES_ExpectileQuantileDiffMulti 
+
+Name of QuantLet : TERES_ExpectileQuantileDiffMulti
 
 Published in : Tail Event Risk Expected Shortfall
 
