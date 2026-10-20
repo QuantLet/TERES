@@ -9,7 +9,7 @@ Name of QuantLet: TERES_RollingWindow
 
 Published in: Tail Event Risk Expected Shortfall
 
-Description: Estimates the expected shortfall of a sample y using expectiles.
+Description: Estimates the expected shortfall of a sample y using expectiles. The estimation requires an expectile level such that it is equal to the value at risk with the predetermined risk level. This is obtained from a normal Laplace mixture. Estimation is executed using moving windows of subsamples.
 
 Keywords: expected shortfall, expectile, financial, heavy-tailed, risk, risk management, risk measure, tail
 
