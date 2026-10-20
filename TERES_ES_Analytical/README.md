@@ -9,7 +9,7 @@ Name of QuantLet: TERES_ES_Analytical
 
 Published in: Tail Event Risk Expected Shortfall
 
-Description: Estimates the theoretical expected shortfall of a sample for a normal Laplace mixture. This is done using a expectile based method.
+Description: Estimates the theoretical expected shortfall of a sample for a normal Laplace mixture. This is done using a expectile based method. The calculation requires a expectile level such that it is equal to the value at risk with the predetermined risk level. This and the relevant quantile are obtained from a normal Laplace mixture.
 
 Keywords: expected shortfall, expectile, financial, heavy-tailed, laplace, normal, risk, risk management, risk measure, tail
 
